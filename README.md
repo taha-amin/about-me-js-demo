@@ -25,6 +25,10 @@ Additional considerations:
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
 
+1. Add html template to website
+    - headers (h1 for name and h2 for where i live)
+
+
 Assignment 2 RUBRIC:
 
     App should include:
