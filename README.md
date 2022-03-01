@@ -28,8 +28,10 @@ Additional considerations:
 1. Add html template to website
     - headers (h1 for name and h2 for where i live)
     - create a strong tag for my pronoun (found out I have to change my font family to actually make it work!)
-    - Add button after 'Whats my Favorite Animal'
-    
+2. ACP!
+3. Add Event listener to app.js file
+    - ACP!
+4. Go into global.css page and style animalDiv so that it is hidden until user clicks button!
 
 
 Assignment 2 RUBRIC:

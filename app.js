@@ -10,6 +10,7 @@
 const showButton = document.getElementById('btn');
 const animal = document.getElementById('animalDiv');
 
+
 showButton.addEventListener('click', () => {
     animal.classList.remove('hidden');
 });
