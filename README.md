@@ -24,3 +24,12 @@ Additional considerations:
     -   What needs to live in a persistence layer?
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
+
+App should include:
+    bio data shows on page, including name, pronouns, and where you live
+    favorie animal is hidden on page load
+    button with event listener shows favorite animal data
+    README file with plan
+    repo has a commit history with multiple commits and commit messages that make sense
+    Link in about section of repo to deployed site in Netlify
+    work is done on a dev branch and pr link is submitted to canvas
