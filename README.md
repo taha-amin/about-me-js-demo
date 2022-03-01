@@ -27,6 +27,9 @@ Additional considerations:
 
 1. Add html template to website
     - headers (h1 for name and h2 for where i live)
+    - create a strong tag for my pronoun (found out I have to change my font family to actually make it work!)
+    - Add button after 'Whats my Favorite Animal'
+    
 
 
 Assignment 2 RUBRIC:
