@@ -24,3 +24,23 @@ Additional considerations:
     -   What needs to live in a persistence layer?
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
+
+1. Add html template to website
+    - headers (h1 for name and h2 for where i live)
+    - create a strong tag for my pronoun (found out I have to change my font family to actually make it work!)
+2. ACP!
+3. Add Event listener to app.js file
+    - ACP!
+4. Go into global.css page and style animalDiv so that it is hidden until user clicks button!
+
+
+Assignment 2 RUBRIC:
+
+    App should include:
+        bio data shows on page, including name, pronouns, and where you live
+        favorite animal is hidden on page load
+        button with event listener shows favorite animal data
+        README file with plan
+        repo has a commit history with multiple commits and commit messages that make sense
+        Link in about section of repo to deployed site in Netlify
+        work is done on a dev branch and pr link is submitted to canvas
